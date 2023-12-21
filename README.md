@@ -5,7 +5,7 @@
 💞️ Let's connect and explore the endless possibilities at the intersection of technology and innovation.
 
 📫 How to reach me:
-   - LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/mdsayem01k/)]
+   - LinkedIn: [[My LinkedIn Profile](https://www.linkedin.com/in/mdsayem01k/)]
    - Email: [mdsayem01k@gmail.com]
 
 <!---
