@@ -36,11 +36,11 @@ Currently working as an **Officer - IT** at **City Brokerage Limited (CBL), a wh
 ---
 
 ## 🔥 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdsayem01k&show_icons=true&theme=radical" width="300" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsayem01k&layout=compact&theme=radical" width="300" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsayem01k&theme=radical" width="300" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsayem01k&layout=compact&theme=radical" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdsayem01k&show_icons=true&theme=radical" height="200" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsayem01k&theme=radical" />
 </p>
 
 
