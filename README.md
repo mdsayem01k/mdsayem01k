@@ -2,7 +2,6 @@
 
 I'm a passionate and enthusiastic individual, deeply exploring the world of **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Artificial Intelligence**. 
 Currently working as an **Officer - IT** at **City Brokerage Limited (CBL), a wholly-owned subsidiary of The City Bank PLC**.
-
 ---
 
 ## 🌟 About Me
